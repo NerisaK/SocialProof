@@ -10,6 +10,7 @@ body {
     width: auto;
     padding: 10px;
     margin: 10px;
+    background: url(images/bg-pattern-top-mobile.svg) top center no-repeat, url(images/bg-pattern-bottom-mobile.svg) bottom center no-repeat;
 }
 
 .column {max-width: 300px; display: grid;}
